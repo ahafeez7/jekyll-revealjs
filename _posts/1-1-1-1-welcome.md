@@ -1,3 +1,3 @@
 ## Welcome
 
-Welcome to the jekyll-reveal.js example presentation.
+Welcome to the jekyll-reveal.js example presentation on Big Data.
