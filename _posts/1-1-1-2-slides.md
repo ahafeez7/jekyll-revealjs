@@ -7,5 +7,12 @@
 ---
 
 ##What is Big Data?
+- Refers to large/complex structured/unstructured datasets 
+  where conventional data processing tools/algorithms are insufficient.
 
 
+---
+##What is Big Data?
+- Big Data refers to large collections of datasets for which computationally 
+efficient data analysis toolsets are employed to identify hidden connections and 
+trends between seemingly unrelated data items.
