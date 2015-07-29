@@ -5,7 +5,7 @@
 - Understand the scope and potential of Big Data, including five V’s of big data. 
 
 ---
-
+<img src="https://matin-hub.github.io/project-pages/img//home-bg.jpg">
 ##What is Big Data?
 - Refers to large/complex structured/unstructured datasets 
   where conventional data processing tools/algorithms are insufficient.
